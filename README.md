@@ -80,3 +80,9 @@ Nos movemos a /etc/bind
 	    file "/etc/bind/db.255";
         };
 
+# Comprobacion con el comado dig de que el servicio funciona
+
+![ comando dig para la comprobación del correcto funcionamiento del servicio ](./img/comandoDig.png) 
+
+
+
